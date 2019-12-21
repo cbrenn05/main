@@ -1,2 +1,4 @@
 # main
-A place to store the weird little things I create
+Claire Brennan
+
+Hello, I'm a software engineering student at the University of Guelph. Thanks for stopping by!
