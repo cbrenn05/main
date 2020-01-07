@@ -1,4 +1,3 @@
-# main
 Claire Brennan
 cbrenn05@uoguelph.ca
 
